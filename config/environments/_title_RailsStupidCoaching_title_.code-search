@@ -1,0 +1,9 @@
+# Query: <title>RailsStupidCoaching</title>
+# ContextLines: 1
+
+1 result - 1 file
+
+app/views/layouts/application.html.erb:
+  3    <head>
+  4:     <title>RailsStupidCoaching</title>
+  5      <meta name="viewport" content="width=device-width,initial-scale=1">
